@@ -1,0 +1,34 @@
+1. What is the output of print(2 ** 3)?
+A) 6
+B) 8
+C) 9
+D) 12
+Answer: B) 8
+
+2. Which of the following is a mutable data type in Python?
+A) Tuple
+B) String
+C) List
+D) Integer
+Answer: C) List
+
+3. How do you start a function definition in Python?
+A) def my_function():
+B) function my_function():
+C) create my_function():
+D) def my_function:
+Answer: A) def my_function():
+
+4. What keyword is used to handle exceptions in Python?
+A) catch
+B) handle
+C) except
+D) try
+Answer: C) except
+
+5. Which method is used to add an element to the end of a list?
+A) add()
+B) append()
+C) insert()
+D) extend()
+Answer: B) append()
